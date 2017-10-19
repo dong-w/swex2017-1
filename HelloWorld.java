@@ -4,5 +4,6 @@ public class HelloWorld {
         System.exit(0);
         System.out.println("Hello NAIST !!");
         System.out.println("Hello SE");
+        // pull request
     }
 }
