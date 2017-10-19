@@ -3,5 +3,6 @@ public class HelloWorld {
         System.out.println("Good Bye !!");
         System.exit(0);
         System.out.println("Hello NAIST !!");
+        System.out.println("Hello SE"
     }
 }
